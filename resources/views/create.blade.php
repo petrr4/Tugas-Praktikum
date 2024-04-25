@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <h2 class="mt-4">Form Tambah Data Mahasiswa</h2>
-        <form action="proses_tambah_mahasiswa.php" method="POST">
+        <form action="" method="">
             <div class="form-group">
                 <label for="nama">Nama:</label>
                 <input type="text" class="form-control" id="nama" required>
